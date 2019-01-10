@@ -5,17 +5,18 @@
  */
 
 /*
- * File:   VueMeteo.cpp
+ * File:   VueSerre.cpp
  * Author: snir2g1
  *
- * Created on 10 janvier 2019, 14:45
+ * Created on 10 janvier 2019, 14:44
  */
 
+#include "VueSerre.h"
 #include "VueMeteo.h"
 
-VueMeteo::VueMeteo() {
+VueSerre::VueSerre() {
     widget.setupUi(this);
 }
 
-VueMeteo::~VueMeteo() {
+VueSerre::~VueSerre() {
 }

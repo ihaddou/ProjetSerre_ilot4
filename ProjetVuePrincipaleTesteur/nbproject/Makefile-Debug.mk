@@ -62,7 +62,7 @@ FORCE:
 
 # Build Targets
 .build-conf: ${BUILD_SUBPROJECTS} nbproject/qt-${CND_CONF}.mk
-	"${MAKE}" -f nbproject/qt-${CND_CONF}.mk ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/ProjetVueMeteoBonnet
+	"${MAKE}" -f nbproject/qt-${CND_CONF}.mk ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/ProjetVuePrincipaleTesteur
 
 ${CND_BUILDDIR}/Debug/%.o: nbproject/qt-${CND_CONF}.mk
 	${MAKE} -f nbproject/qt-${CND_CONF}.mk "$@"

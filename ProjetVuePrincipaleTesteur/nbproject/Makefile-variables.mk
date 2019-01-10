@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux
-CND_ARTIFACT_NAME_Debug=ProjetVueMeteoBonnet
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/ProjetVueMeteoBonnet
+CND_ARTIFACT_NAME_Debug=ProjetVuePrincipaleTesteur
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/ProjetVuePrincipaleTesteur
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
-CND_PACKAGE_NAME_Debug=ProjetVueMeteoBonnet.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/ProjetVueMeteoBonnet.tar
+CND_PACKAGE_NAME_Debug=ProjetVuePrincipaleTesteur.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/ProjetVuePrincipaleTesteur.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux
-CND_ARTIFACT_NAME_Release=ProjetVueMeteoBonnet
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/ProjetVueMeteoBonnet
+CND_ARTIFACT_NAME_Release=ProjetVuePrincipaleTesteur
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/ProjetVuePrincipaleTesteur
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux/package
-CND_PACKAGE_NAME_Release=ProjetVueMeteoBonnet.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/ProjetVueMeteoBonnet.tar
+CND_PACKAGE_NAME_Release=ProjetVuePrincipaleTesteur.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/ProjetVuePrincipaleTesteur.tar
 #
 # include compiler specific variables
 #

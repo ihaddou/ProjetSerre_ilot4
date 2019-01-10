@@ -5,24 +5,24 @@
  */
 
 /* 
- * File:   VueMeteo.h
+ * File:   VueSerre.h
  * Author: snir2g1
  *
- * Created on 10 janvier 2019, 14:45
+ * Created on 10 janvier 2019, 14:44
  */
 
-#ifndef _VUEMETEO_H
-#define _VUEMETEO_H
+#ifndef _VUESERRE_H
+#define _VUESERRE_H
 
-#include "ui_VueMeteo.h"
+#include "ui_VueSerre.h"
 
-class VueMeteo : public QWidget {
+class VueSerre : public QWidget {
     Q_OBJECT
 public:
-    VueMeteo();
-    virtual ~VueMeteo();
+    VueSerre();
+    virtual ~VueSerre();
 private:
-    Ui::VueMeteo widget;
+    Ui::VueSerre widget;
 };
 
-#endif /* _VUEMETEO_H */
+#endif /* _VUESERRE_H */
