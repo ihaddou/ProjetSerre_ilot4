@@ -19,3 +19,7 @@ VueMeteo::VueMeteo() {
 
 VueMeteo::~VueMeteo() {
 }
+void VueMeteo::mettreAjour() {
+    widget.temperature->setText("24");
+    widget.vitesseVent->setText("110");
+}

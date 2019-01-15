@@ -21,6 +21,7 @@ int main(int argc, char *argv[]) {
 
     VueMeteo maVueMeteo;
     maVueMeteo.show();
+     maVueMeteo.mettreAjour();
 
     return app.exec();
 }

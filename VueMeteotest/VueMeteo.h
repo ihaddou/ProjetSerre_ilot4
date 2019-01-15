@@ -20,6 +20,7 @@ class VueMeteo : public QWidget {
     Q_OBJECT
 public:
     VueMeteo();
+    void mettreAjour();
     virtual ~VueMeteo();
 private:
     Ui::VueMeteo widget;
