@@ -21,6 +21,7 @@ int main(int argc, char *argv[]) {
     QApplication app(argc, argv);
     VueSerre maVueSerre;
     maVueSerre.show();
+    maVueSerre.mettreAJour();
 
     // create and show your widgets here
 
