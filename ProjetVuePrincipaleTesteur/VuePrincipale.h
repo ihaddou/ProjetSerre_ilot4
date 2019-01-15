@@ -28,7 +28,7 @@ private:
     Ui::VuePrincipale widget;
     
     VueMeteo* meteow;
-    VueSerre* serrew;
+    VueSerre* serrew[3];
 };
 
 #endif /* _VUEPRINCIPALE_H */

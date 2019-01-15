@@ -12,15 +12,15 @@
  */
 
 #include <QApplication>
-#include "VueMeteo.h"
+#include "VuePrincipale.h"
 
 int main(int argc, char *argv[]) {
     // initialize resources, if needed
     // Q_INIT_RESOURCE(resfile);
 
     QApplication app(argc, argv);
-    VueMeteo maVuemeteo;
-    maVuemeteo.show();
+    VuePrincipale maVuePrincipale;
+    maVuePrincipale.show();
     // create and show your widgets here
 
     return app.exec();

@@ -17,11 +17,16 @@
 
 VuePrincipale::VuePrincipale() {
     meteow= new VueMeteo();
-    serrew= new VueSerre();
- 
-    widget->meteo->addWidget(meteow)
-    widget->serre->addWidget(serrew);
+    
+    for(int i=0; i<3 ;i++ ){
+        serrew[i]= new VueSerre();
+    }
     widget.setupUi(this);
+     
+    widget.meteo->addWidget(meteow);
+    for(int i=0; i<3;i++){
+        widget.serre->addWidget(serrew[i]);
+    }
 }
 
 VuePrincipale::~VuePrincipale() {
