@@ -19,3 +19,10 @@ VueSerre::VueSerre() {
 
 VueSerre::~VueSerre() {
 }
+
+void VueSerre::mettreAJour(){    
+    widget.luminosite->setText("12");
+    widget.temperature->setText("42");
+    widget.hygrometrie->setText("65");
+    widget.positionOuvrants->setText("78");
+}
