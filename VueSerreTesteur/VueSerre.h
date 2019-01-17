@@ -21,6 +21,7 @@ class VueSerre : public QWidget {
 public:
     VueSerre();
    void mettreAJour();
+ 
     virtual ~VueSerre();
 private:
     Ui::VueSerre widget;

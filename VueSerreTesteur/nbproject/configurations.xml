@@ -28,6 +28,12 @@
                    kind="IMPORTANT_FILES_FOLDER">
       <itemPath>Makefile</itemPath>
     </logicalFolder>
+    <itemPath>../ClassesMetier/Observable.cpp</itemPath>
+    <itemPath>../ClassesMetier/Observable.h</itemPath>
+    <itemPath>../ClassesMetier/Observateur.cpp</itemPath>
+    <itemPath>../ClassesMetier/Observateur.h</itemPath>
+    <itemPath>../ClassesMetier/infoclimat.cpp</itemPath>
+    <itemPath>../ClassesMetier/infoclimat.h</itemPath>
   </logicalFolder>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
@@ -42,6 +48,18 @@
       </qt>
       <compileType>
       </compileType>
+      <item path="../ClassesMetier/Observable.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../ClassesMetier/Observable.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../ClassesMetier/Observateur.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../ClassesMetier/Observateur.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../ClassesMetier/infoclimat.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../ClassesMetier/infoclimat.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="VueSerre.cpp.cc" ex="false" tool="1" flavor2="0">
       </item>
       <item path="VueSerre.h" ex="false" tool="3" flavor2="0">
@@ -75,6 +93,18 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="../ClassesMetier/Observable.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../ClassesMetier/Observable.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../ClassesMetier/Observateur.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../ClassesMetier/Observateur.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../ClassesMetier/infoclimat.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../ClassesMetier/infoclimat.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="VueSerre.cpp.cc" ex="false" tool="1" flavor2="0">
       </item>
       <item path="VueSerre.h" ex="false" tool="3" flavor2="0">
