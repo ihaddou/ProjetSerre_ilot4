@@ -5,7 +5,7 @@
                    displayName="Header Files"
                    projectFiles="true">
       <itemPath>../VueMeteotest/VueMeteo.h</itemPath>
-      <itemPath>../ProjetVuePrincipaleTesteur/VuePrincipale.h</itemPath>
+      <itemPath>VuePrincipale.h</itemPath>
       <itemPath>../VueSerreTesteur/VueSerre.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
@@ -51,11 +51,6 @@
             tool="1"
             flavor2="0">
       </item>
-      <item path="../ProjetVuePrincipaleTesteur/VuePrincipale.h"
-            ex="false"
-            tool="3"
-            flavor2="0">
-      </item>
       <item path="../ProjetVuePrincipaleTesteur/VuePrincipale.ui"
             ex="false"
             tool="3"
@@ -68,6 +63,8 @@
       <item path="../VueSerreTesteur/VueSerre.cpp.cc" ex="false" tool="1" flavor2="0">
       </item>
       <item path="../VueSerreTesteur/VueSerre.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="VuePrincipale.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
@@ -101,11 +98,6 @@
             tool="1"
             flavor2="0">
       </item>
-      <item path="../ProjetVuePrincipaleTesteur/VuePrincipale.h"
-            ex="false"
-            tool="3"
-            flavor2="0">
-      </item>
       <item path="../ProjetVuePrincipaleTesteur/VuePrincipale.ui"
             ex="false"
             tool="3"
@@ -118,6 +110,8 @@
       <item path="../VueSerreTesteur/VueSerre.cpp.cc" ex="false" tool="1" flavor2="0">
       </item>
       <item path="../VueSerreTesteur/VueSerre.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="VuePrincipale.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>

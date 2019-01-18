@@ -22,7 +22,7 @@ class VuePrincipale : public QWidget {
     Q_OBJECT
 public:
     VuePrincipale();
-   void mettreAJour();
+    void mettreAJour();
     virtual ~VuePrincipale();
 private:
     Ui::VuePrincipale widget;
