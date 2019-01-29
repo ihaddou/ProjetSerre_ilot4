@@ -12,7 +12,7 @@
  */
 
 #include <QApplication>
-#include "../ProjetVuePrincipaleTesteur/VuePrincipale.h"
+#include "VuePrincipale.h"
 
 int main(int argc, char *argv[]) {
     // initialize resources, if needed
@@ -23,6 +23,6 @@ int main(int argc, char *argv[]) {
     // create and show your widgets here
     VuePrincipale * uneVuePrincipale = new VuePrincipale();
     uneVuePrincipale->show();
-
+    uneVuePrincipale->mettreAJour();
     return app.exec();
 }
